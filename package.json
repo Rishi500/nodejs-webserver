@@ -1,0 +1,22 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eventEmitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishi500/nodejs-webserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishi500/nodejs-webserver/issues"
+  },
+  "homepage": "https://github.com/Rishi500/nodejs-webserver#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
