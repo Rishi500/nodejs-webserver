@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Rishi500/nodejs-webserver#readme",
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10"
   }
 }
